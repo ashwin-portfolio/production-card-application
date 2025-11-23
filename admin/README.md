@@ -22,3 +22,6 @@ npm run build
 - Card assignment
 - CSV export
 
+
+
+

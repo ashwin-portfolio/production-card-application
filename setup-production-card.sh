@@ -624,6 +624,7 @@ A complete production card management system with Android mobile app, FastAPI ba
 4. **MySQL Database** - Data persistence layer
 
 ### Key Features
+
 - Phone + Password + SMS OTP authentication
 - Device binding with hash (one device per user)
 - Device rebind request workflow
